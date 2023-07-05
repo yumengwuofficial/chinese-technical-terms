@@ -15,7 +15,7 @@ I created this repository to collect each new Chinese technical term that I lear
 
 - Border 边框 (biān kuāng）
 - Backend 后端 (hòu duān)
-- Blockchain 区块链 (qū kuài lián)
+- Blockchain 区块链 (qū kuài liàn)
 - Build 构建 (gòu jiàn)
 - Bundle 打包 (dǎ bāo)
 - Branch 分支 (fēn zhī)
@@ -34,18 +34,18 @@ I created this repository to collect each new Chinese technical term that I lear
 - Collection 容器 / 集合 (róng qì / jí hé)
 - Comments 注释 (zhù shì)
 - Compatible 兼容 (jiān róng)
-- Conflict 冲突 (chōng tú)
+- Conflict 冲突 (chōng tū)
 - Configure 配置 (pèi zhì)
 - Crash 闪退 / 崩溃 (shǎn tuì / bēng kuì)
 - Create 创建 (chuàng jiàn)
 - Concurrency 并发 (bìng fā)
 - Compile 编译 (biān yì)
 - Commit (code) 提交 (tí jiāo)
-- Customise 客制化 (kè zhì huà)
+- Customise 定制 / 客制化 (dìng zhì / kè zhì huà)
 
 # D
 
-- Dashboard 操作台 (cāo zuò tái)
+- Dashboard 看板 / 仪表盘 / 操作台 (kàn bǎn / yí biǎo pán / cāo zuò tái)
 - Data Center 数据中心 (shù jù  zhōng xīn)
 - Data 数据 (shù jù)
 - Database 数据库 (shù jù kù)
@@ -81,7 +81,7 @@ I created this repository to collect each new Chinese technical term that I lear
 # I
 
 - Immutability 不可篡改性 (bù kě cuàn gǎi xìng)
-- Integrate 对接 (duì jiē)
+- Integrate 集成 / 对接 (jí chéng / duì jiē)
 - Integration Testing 集成测试 (jí chéng cè shì)
 - Input field 输入框 (shūrù kuāng)
 
@@ -91,9 +91,9 @@ I created this repository to collect each new Chinese technical term that I lear
 
 # L
 
-- Layout 构图 (gòu tú)
+- Layout 布局 / 构图 (bù jú / gòu tú)
 - Lazy loading 懒加载 (lǎn jiā zài)
-- Lint / Format code 格式化 (gé shì huà)
+- Lint / Format code 格式代码 / 格式化 (gé shì dài mǎ / gé shì huà)
 - Log 日志 (rì zhì)
 - Logic 逻辑 (luó jì)
 - Login 登录 (dēnglù)
@@ -108,7 +108,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Micro service 微服务 (wéi fúwù)
 - Micro frontend 微应用 (wéi yìngyòng)
 - Mini app 小程序 (Xiǎo chéngxù)
-- Modal/Popup 弹窗 (Dàn chuāng)
+- Modal/Popup 弹窗 (tán chuāng)
 - Module 模块 (mó kuài)
 - Multithreaded 多线程 (duō xiàn chéng)
 - Monitoring 监控 (jiān kòng)
@@ -141,7 +141,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Project 项目 (xiàng mù)
 - Property 属性 (shǔ xìng)
 - Proxy 代理 (dài lǐ)
-- Pull (code) 拉取 (lā qǔ)
+- Pull (code) 取 / 拉取 (qǔ / lā qǔ)
 - Push (code) 推送 (tuī sòng)
 
 # Q
@@ -157,7 +157,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - (Http) Request 请求 (qǐng qiú)
 - Render 渲染 (xuànrǎn)
 - Retention rate 留存率 (liú cún lǜ)
-- Revenue 营收 (yíng shōu)
+- Revenue 营收 / 收益 (yíng shōu / shōu yì)
 - Reverse Proxy 反向代理 (fǎn xiàng dài lǐ)
 - RAM 内存 (nèi cún)
 - Run 运行 (yùn xíng)
@@ -168,13 +168,13 @@ I created this repository to collect each new Chinese technical term that I lear
 
 - Save 保存 (bǎo cún)
 - Scaffold 脚手架 (jiǎo shǒu jià)
-- Schedule/Scheduler 调度
+- Schedule/Scheduler 调度 (diào dù)
 - Screenshot / Screencapture 截图 (jié tú)
 - Script 脚本 (jiǎo běn)
 - Scroll 上下滚动 (shàng xià  gǔn dòng)
 - Security 安全 (ān quán)
 - Serialization 序列化 (xù liè huà)
-- Server 服务端 (fú wù duān)
+- Server 服务器 / 服务端 (fú wù qì / fú wù duān)
 - Server migration 服务器迁移 (fú wù qì qiān yí)
 - Setting 设置 (shè zhì)
 - Site reliability engineering 网站可靠性工程 (wǎng zhàn kě kào xìng gōng chéng)
@@ -197,12 +197,12 @@ I created this repository to collect each new Chinese technical term that I lear
 - ThreadSafe 线程安全 (xiàn chéng  ān quán)
 - Throw error 报错 (bào cuò)
 - Transaction Fee 手续费 (shǒu xù fèi)
-- Troubleshoot 排查 (pái chá)
+- Troubleshoot (故障）排查 (gù zhàng pái chá)
 
 # U
 
 - User 用户 (yòng hù)
-- User acquisition 使用者获取 (shǐ yòng zhě huò qǔ)
+- User acquisition 用户获取 (yòng hù huò qǔ)
 - Usability Testing 可用性测试 (kěyòngxìng cèshì)
 
 # V
